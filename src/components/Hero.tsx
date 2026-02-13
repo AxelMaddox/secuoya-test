@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center animate-slide-up">
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6">
-            Innovación y Excelencia en Desarrollo de Software
+            Innovación y Excelencia
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
             En Secuoya Institute, transformamos ideas en soluciones tecnológicas que impulsan el futuro de tu negocio
